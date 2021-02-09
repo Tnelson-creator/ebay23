@@ -1,4 +1,5 @@
 List of databases
+s3=master
 MySQL databases
 H2DB
 MongoDB
